@@ -196,3 +196,33 @@ nav{
     line-height: 30px;
 }
 
+
+
+#call .call-container{
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 120px 0px 120px;
+    background-color: #F7F6F2;
+    border-radius: 12px;
+    margin: 0 auto;
+}
+.call-content{
+     padding: 80px 40px;
+    }
+    
+
+.call-content h2{
+    font-size: 40px;
+    color: #001931;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+.call-content p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #627382;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
