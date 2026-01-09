@@ -259,22 +259,19 @@ footer{
     line-height: 26px;
     margin-bottom: 14px;
 }
-
-.icons a {
-    display: inline-flex;
-    background-color: white;
-    height: 30px;
-    width: 30px;
-    border-radius: 50%;
-    justify-content: center;
+.icons{
+    display: flex;
+    justify-content: space-between;
     align-items: center;
 }
-.icons i {
-    border-radius: 50%;
-    /* align-items: center;
-    justify-content: center;
+.icons-style{
     background-color: white;
-    gap: 15px; */
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
 }
 .footer-bottom P{
     font-size: 20px;
